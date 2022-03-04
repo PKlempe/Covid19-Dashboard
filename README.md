@@ -1,5 +1,5 @@
 # Covid19-Dashboard
-> **Data Source:** COVID-19 Dataset by Our World in Data - https://github.com/owid/covid-19-data
+> **Data Source:** [COVID-19 Dataset by Our World in Data](https://github.com/owid/covid-19-data)
 
 This basic Covid dashboard has been developed for the course "VIS - Visualisation and Visual Data Analysis" at the University of Vienna. The goal of this assignment was to implement a web-based dashboard based on a low-fidelity design prototype created in a previous assignment.
 
